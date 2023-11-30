@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tetris_CMD",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tetris_CMD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tetris_CMD-Debug-56ab926c05f84ea2feab.json",
+					"name" : "Tetris_CMD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tetris_CMD-lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tetris_CMD-lib-Debug-9ae2db9458c4ad5ccd1c.json",
+					"name" : "Tetris_CMD-lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Bartosz/Projects/Tetris_CMD/out/build/x64-debug",
+		"source" : "C:/Bartosz/Projects/Tetris_CMD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

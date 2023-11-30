@@ -1,0 +1,4 @@
+C:/Bartosz/Projects/Tetris_CMD/out/build/x64-debug/CMakeFiles/Tetris_CMD-lib.dir
+C:/Bartosz/Projects/Tetris_CMD/out/build/x64-debug/CMakeFiles/Tetris_CMD.dir
+C:/Bartosz/Projects/Tetris_CMD/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Bartosz/Projects/Tetris_CMD/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
