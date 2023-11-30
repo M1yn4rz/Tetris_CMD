@@ -9,7 +9,5 @@ int main()
 {
 	Play play(17, 29);
 
-	std::cout << "";
-
 	return 0;
 }
